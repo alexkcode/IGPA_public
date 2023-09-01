@@ -178,9 +178,7 @@ cython_debug/
 
 /downloads/**
 
-**/data/raw/**
 **/data/clery/**
-!**/data/sage/**
 **/**~$**
 
 **service**account**
