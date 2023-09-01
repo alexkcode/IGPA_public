@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!-- This code is for demonstration purposes only.  You should not hotlink to Github, Rawgit, or files from the Cytoscape.js documentation in your production apps. -->
+<html>
+  <head>
+    <title>CBO Network Cytospace Demo</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+    <link href="style.css" rel="stylesheet" />
+
+    <!-- For loading external data files -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Promise,fetch"></script>
+
+    <script src="https://unpkg.com/cytoscape@3.20.0/dist/cytoscape.min.js"></script>
+
+    <!-- Jquery for graphml -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+		<!-- Other iVis-at-Bilkent libraries -->
+		<script src="https://unpkg.com/layout-base@1.0.2/layout-base.js"></script>
+		<script src="https://unpkg.com/avsdf-base/avsdf-base.js"></script>
+		<script src="https://unpkg.com/cose-base@1.0.3/cose-base.js"></script>
+		<script src="https://unpkg.com/cytoscape-graphml/cytoscape-graphml.js"></script>
+		<script src="https://raw.githack.com/iVis-at-Bilkent/cytoscape.js-layvo/unstable/cytoscape-layvo.js"></script>
+
+    <script src="https://unpkg.com/cytoscape-cise@1.0.0/cytoscape-cise.js"></script>
+
+    <!-- for testing with local version of cytoscape.js -->
+    <!-- <script src="../cytoscape.js/build/cytoscape.js"></script> -->
+  </head>
+  <body>
+    <h1>CBO Network Cytospace Demo</h1>
+    <!-- <label for="layoutSelect">Select Layout:</label>
+    <select id="layoutSelect">
+      <option value="circle">Circle</option>
+      <option value="grid">Grid</option>
+      <option value="random">Random</option>
+    </select> -->
+    <div id="cy"></div>
+    <!-- Load application code at the end to ensure DOM is loaded -->
+    <script src="code.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1493 @@
+[
+    {
+        "data": {
+            "id": "0",
+            "value": 0,
+            "name": "0",
+            "label": "Breakthrough Urban Ministries"
+        },
+        "position": {
+            "x": -1.0,
+            "y": -8.742277657347586e-08
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "1",
+            "value": 1,
+            "name": "1",
+            "label": "Greater West Town Community Development Project"
+        },
+        "position": {
+            "x": -0.9839295744895935,
+            "y": -0.17855705320835114
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "2",
+            "value": 2,
+            "name": "2",
+            "label": "Habilitative Systems, Inc."
+        },
+        "position": {
+            "x": -0.9362348914146423,
+            "y": -0.3513748347759247
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "3",
+            "value": 3,
+            "name": "3",
+            "label": "Metropolitan Family Services (MFS)"
+        },
+        "position": {
+            "x": -0.8584488034248352,
+            "y": -0.5128993391990662
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "4",
+            "value": 4,
+            "name": "4",
+            "label": "National Able Network"
+        },
+        "position": {
+            "x": -0.7530714273452759,
+            "y": -0.6579388380050659
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "5",
+            "value": 5,
+            "name": "5",
+            "label": "North Lawndale Employment Network (NLEN)"
+        },
+        "position": {
+            "x": -0.6234896183013916,
+            "y": -0.7818316221237183
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "6",
+            "value": 6,
+            "name": "6",
+            "label": "Puerto Rican Cultural Center"
+        },
+        "position": {
+            "x": -0.47386884689331055,
+            "y": -0.8805954456329346
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "7",
+            "value": 7,
+            "name": "7",
+            "label": "Safer Foundation"
+        },
+        "position": {
+            "x": -0.3090171217918396,
+            "y": -0.9510564804077148
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "8",
+            "value": 8,
+            "name": "8",
+            "label": "The Resurrection Project"
+        },
+        "position": {
+            "x": -0.13423331081867218,
+            "y": -0.9909497499465942
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "9",
+            "value": 9,
+            "name": "9",
+            "label": "Westside Health Authority"
+        },
+        "position": {
+            "x": 0.04486485943198204,
+            "y": -0.9989930391311646
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "10",
+            "value": 10,
+            "name": "10",
+            "label": "Back of the Yards Neighborhood Council"
+        },
+        "position": {
+            "x": 0.22252103686332703,
+            "y": -0.9749279022216797
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "11",
+            "value": 11,
+            "name": "11",
+            "label": "Brothers Health Collective"
+        },
+        "position": {
+            "x": 0.3930251896381378,
+            "y": -0.9195277094841003
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "12",
+            "value": 12,
+            "name": "12",
+            "label": "Central States SER"
+        },
+        "position": {
+            "x": 0.5508971810340881,
+            "y": -0.8345731496810913
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "13",
+            "value": 13,
+            "name": "13",
+            "label": "Envision Community Services"
+        },
+        "position": {
+            "x": 0.691062867641449,
+            "y": -0.7227946519851685
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "14",
+            "value": 14,
+            "name": "14",
+            "label": "Goodwill Industries of Metropolitan Chicago"
+        },
+        "position": {
+            "x": 0.8090172410011292,
+            "y": -0.5877849459648132
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "15",
+            "value": 15,
+            "name": "15",
+            "label": "Institute for Latino Progress (Instituto)"
+        },
+        "position": {
+            "x": 0.9009688496589661,
+            "y": -0.43388375639915466
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "16",
+            "value": 16,
+            "name": "16",
+            "label": "New Pisgah Community Service Organization"
+        },
+        "position": {
+            "x": 0.9639628529548645,
+            "y": -0.2660367786884308
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "17",
+            "value": 17,
+            "name": "17",
+            "label": "SGA Youth and Family Services"
+        },
+        "position": {
+            "x": 0.9959743022918701,
+            "y": -0.08963917195796967
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "18",
+            "value": 18,
+            "name": "18",
+            "label": "Southwest Organizing Project (SWOP)"
+        },
+        "position": {
+            "x": 0.9959743022918701,
+            "y": 0.08963903784751892
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "19",
+            "value": 19,
+            "name": "19",
+            "label": "St. Sabina Employment Resource Center"
+        },
+        "position": {
+            "x": 0.9639629125595093,
+            "y": 0.26603665947914124
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "20",
+            "value": 20,
+            "name": "20",
+            "label": "Ada S. McKinley Community Resources"
+        },
+        "position": {
+            "x": 0.9009689092636108,
+            "y": 0.4338836371898651
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "21",
+            "value": 21,
+            "name": "21",
+            "label": "Calumet Area Industrial Commission (CAIC)"
+        },
+        "position": {
+            "x": 0.80901700258255,
+            "y": 0.5877852439880371
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "22",
+            "value": 22,
+            "name": "22",
+            "label": "Centers for New Horizons"
+        },
+        "position": {
+            "x": 0.6910626292228699,
+            "y": 0.7227948904037476
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "23",
+            "value": 23,
+            "name": "23",
+            "label": "Community Assistance Programs (CAPs)"
+        },
+        "position": {
+            "x": 0.5508968830108643,
+            "y": 0.8345733284950256
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "24",
+            "value": 24,
+            "name": "24",
+            "label": "KLEO Center"
+        },
+        "position": {
+            "x": 0.39302489161491394,
+            "y": 0.9195278286933899
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "25",
+            "value": 25,
+            "name": "25",
+            "label": "Latino Resource Institute of Illinois"
+        },
+        "position": {
+            "x": 0.22252069413661957,
+            "y": 0.9749279618263245
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "26",
+            "value": 26,
+            "name": "26",
+            "label": "Lawrence Hall"
+        },
+        "position": {
+            "x": 0.044864509254693985,
+            "y": 0.9989930987358093
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "27",
+            "value": 27,
+            "name": "27",
+            "label": "Leave No Veteran Behind"
+        },
+        "position": {
+            "x": -0.13423365354537964,
+            "y": 0.9909496903419495
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "28",
+            "value": 28,
+            "name": "28",
+            "label": "Phalanx Family Services"
+        },
+        "position": {
+            "x": -0.3090174198150635,
+            "y": 0.9510563611984253
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "29",
+            "value": 29,
+            "name": "29",
+            "label": "South side Help Center"
+        },
+        "position": {
+            "x": -0.47386911511421204,
+            "y": 0.8805952668190002
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "30",
+            "value": 30,
+            "name": "30",
+            "label": "YWCA"
+        },
+        "position": {
+            "x": -0.6234895586967468,
+            "y": 0.781831681728363
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "31",
+            "value": 31,
+            "name": "31",
+            "label": "Malcom X"
+        },
+        "position": {
+            "x": -0.7530712485313416,
+            "y": 0.6579389572143555
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "32",
+            "value": 32,
+            "name": "32",
+            "label": "Chicago Cook Workforce Partnership"
+        },
+        "position": {
+            "x": -0.8584486842155457,
+            "y": 0.5128994584083557
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "33",
+            "value": 33,
+            "name": "33",
+            "label": "SUHI"
+        },
+        "position": {
+            "x": -0.9362348318099976,
+            "y": 0.35137492418289185
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "id": "34",
+            "value": 34,
+            "name": "34",
+            "label": "UIC"
+        },
+        "position": {
+            "x": -0.9839295744895935,
+            "y": 0.17855693399906158
+        },
+        "classes": "multiline-auto"
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 0,
+            "target": 2
+        }
+    },
+    {
+        "data": {
+            "weight": 7,
+            "source": 0,
+            "target": 6
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 7
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 9
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 10
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 20
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 22
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 23
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 24
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 26
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 28
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 0,
+            "target": 29
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 0,
+            "target": 30
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 0,
+            "target": 1
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 1,
+            "target": 2
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 3
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 4
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 5
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 1,
+            "target": 6
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 1,
+            "target": 7
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 9
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 1,
+            "target": 10
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 12
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 1,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 15
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 17
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 1,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 20
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 22
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 23
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 25
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 26
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 27
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 1,
+            "target": 29
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 30
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 1,
+            "target": 31
+        }
+    },
+    {
+        "data": {
+            "weight": 7,
+            "source": 1,
+            "target": 32
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 1,
+            "target": 33
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 1,
+            "target": 34
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 2,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 6,
+            "source": 3,
+            "target": 5
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 3,
+            "target": 7
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 3,
+            "target": 9
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 3,
+            "target": 10
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 3,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 3,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 4,
+            "target": 10
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 4,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 4,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 5,
+            "target": 7
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 5,
+            "target": 8
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 5,
+            "target": 9
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 5,
+            "target": 16
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 17
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 18
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 20
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 22
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 5,
+            "target": 23
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 26
+        }
+    },
+    {
+        "data": {
+            "weight": 6,
+            "source": 5,
+            "target": 28
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 29
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 30
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 31
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 33
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 5,
+            "target": 34
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 5,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 6,
+            "target": 10
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 6,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 7,
+            "target": 9
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 7,
+            "target": 12
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 7,
+            "target": 13
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 7,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 7,
+            "target": 15
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 7,
+            "target": 20
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 7,
+            "target": 22
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 7,
+            "target": 26
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 7,
+            "target": 27
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 7,
+            "target": 28
+        }
+    },
+    {
+        "data": {
+            "weight": 6,
+            "source": 7,
+            "target": 31
+        }
+    },
+    {
+        "data": {
+            "weight": 5,
+            "source": 7,
+            "target": 32
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 7,
+            "target": 33
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 7,
+            "target": 34
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 7,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 8,
+            "target": 10
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 8,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 9,
+            "target": 22
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 9,
+            "target": 31
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 9,
+            "target": 32
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 9,
+            "target": 33
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 9,
+            "target": 34
+        }
+    },
+    {
+        "data": {
+            "weight": 6,
+            "source": 9,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 9,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 10,
+            "target": 11
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 10,
+            "target": 12
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 13
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 10,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 15
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 16
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 17
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 18
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 20
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 21
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 22
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 23
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 25
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 26
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 28
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 29
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 30
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 10,
+            "target": 31
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 32
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 33
+        }
+    },
+    {
+        "data": {
+            "weight": 1,
+            "source": 10,
+            "target": 34
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 11,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 12,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 12,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 13,
+            "target": 14
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 14,
+            "target": 15
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 17
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 18
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 14,
+            "target": 20
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 21
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 14,
+            "target": 22
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 23
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 24
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 25
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 14,
+            "target": 26
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 27
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 28
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 29
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 14,
+            "target": 30
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 14,
+            "target": 31
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 32
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 33
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 14,
+            "target": 34
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 15,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 16,
+            "target": 19
+        }
+    },
+    {
+        "data": {
+            "weight": 3,
+            "source": 19,
+            "target": 23
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 19,
+            "target": 28
+        }
+    },
+    {
+        "data": {
+            "weight": 4,
+            "source": 19,
+            "target": 30
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 19,
+            "target": 31
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 19,
+            "target": 33
+        }
+    },
+    {
+        "data": {
+            "weight": 2,
+            "source": 19,
+            "target": 34
+        }
+    }
+]
